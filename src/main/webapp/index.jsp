@@ -5,7 +5,7 @@
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : + 91 -7983338632 </h2>
+  <h2> Call Us : + 91 -ye mera number hai </h2>
 
 </body>
 </html>
